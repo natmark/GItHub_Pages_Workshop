@@ -25,7 +25,7 @@ Presenter : 佐藤敦也
 
 - 公立はこだて未来大学 知能システムコース 2年
 - iOSプログラマ
-
+- Fivebox合同会社
 ---
 
 ## <font face="arial">GitHubとは</font>
@@ -63,5 +63,29 @@ Presenter : 佐藤敦也
 ---
 
 ## <font face="arial">Gitとは</font>
-
 <hr>
+
+- プログラムソースなどの変更履歴を管理する分散型のバージョン管理システムのこと。
+
+詳しく説明してあるページ: http://www.backlog.jp/git-guide/intro/intro1_1.html
+
+---
+
+## <font face="arial">GitHub Pagesとは</font>
+<hr>
+
+- GitHubが提供するホスティングサービスで、ウェブページをインターネット上に公開することができる。
+- https://natmark.github.io/
+↑
+僕のポートフォリオサイトもGitHub Pagesで作成してます。
+
+---
+
+こんな感じで管理されてます。
+
+![30%](/Users/AtsuyaSato/Desktop/Workshop/Assets/スクリーンショット%202017-01-21%2021.09.31.png)
+
+
+![30%](/Users/AtsuyaSato/Desktop/Workshop/Assets/スクリーンショット%202017-01-21%2021.09.48.png)
+
+---
