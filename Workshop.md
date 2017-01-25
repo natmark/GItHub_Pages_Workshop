@@ -4,7 +4,7 @@
 
 # GitHub Pages Workshop
 
-## 2016 / 11 / **
+## 2017 / 02 / 02
 
 ---
 
@@ -17,17 +17,49 @@
 <div style="float:left;">
 <br \>
 Presenter : 佐藤敦也
-<br \>
+
 <a href="http://natmark.github.io">http://natmark.github.io</a>
+
+- 公立はこだて未来大学
+知能システムコース 2年
+- iOSエンジニア
 </div>
 <p><img alt="repo" src="https://scontent.xx.fbcdn.net/v/t1.0-9/11401172_1599957510266613_1959919015970162703_n.jpg?oh=5a8bf0f0f181d26469afcabae290f8de&oe=58C4FAF3" style="display:block;margin-left:auto" width="200px" /></p>  
 <br \>
 
-- 公立はこだて未来大学 知能システムコース 2年
-- iOSプログラマ
-- Fivebox合同会社
 ---
 
+## <font face="arial">注意事項</font>
+
+- 本ワークショップではGit及びGitHubの大部分の説明を省略します。
+- 後半で、演習を行いますが、複数人開発については触れないためmasterブランチ一本で作業します。
+- 発表者はPagesエバンジェリストではありません。
+- 本ワークショップはFIVEBOX合同会社のIT人材育成事業の一環として行っております。
+
+---
+
+## <font face="arial">FIVEBOX合同会社</font>
+
+http://fivebox.org/
+&nbsp;
+
+- スマートフォンアプリ開発 / 人材育成事業 / 民泊事業
+&nbsp;
+
+
+- 現在社員6名(うち5名が未来大学のアルバイト)
+- エンジニア4名、デザイナー1名 (+ インターン2名)
+
+---
+
+![](/Users/AtsuyaSato/Desktop/Workshop/Assets/16113156_330411674019225_1158213924869942903_o.jpg)
+
+---
+<!-- template : gaia -->
+# GitHub Pages Workshop
+
+---
+<!-- template : normal -->
 ## <font face="arial">GitHubとは</font>
 
 <hr>
@@ -44,6 +76,19 @@ Presenter : 佐藤敦也
 
 # <font face="arial">GitHubは</font>
 ## <font face="arial">Gitホスティングサービスの一つ</font>
+
+---
+
+# <font face="arial">Gitホスティングサービスってなんぞ？</font>
+
+---
+
+## <font face="arial">Gitプロジェクトを置けるサービス</font>
+
+---
+
+## <font face="arial">じゃあGitプロジェクトって...</font>
+##### <font face="arial">Gitによってバージョン管理されたプロジェクト(ファイル群)のこと</font>
 
 ---
 
@@ -71,6 +116,27 @@ Presenter : 佐藤敦也
 
 ---
 
+120525_ドキュメント_最新.txt
+120602_ドキュメント.txt
+120604_ドキュメント.txt
+.
+.
+.
+↑
+バージョン管理されていないと、このようにバックアップされた過去のファイルが大量にできてしまう。
+
+(しかも、どのファイルにどんなことが書いてあるか、一目で分からない)
+
+---
+
+`ドキュメント.txt`
+![](/Users/AtsuyaSato/Desktop/Workshop/Assets/スクリーンショット%202017-01-26%202.24.59.png)
+
+↑
+バージョン管理されていると、変更点の差分が一目でわかるようになる。
+
+---
+
 ## <font face="arial">GitHub Pagesとは</font>
 <hr>
 
@@ -89,3 +155,9 @@ Presenter : 佐藤敦也
 ![30%](/Users/AtsuyaSato/Desktop/Workshop/Assets/スクリーンショット%202017-01-21%2021.09.48.png)
 
 ---
+
+### <font face="arial">説明するより、やってみた方が早いと思うので、さっそくGitHubのアカウントを作ってみましょう！</font>
+
+---
+
+ここからは同時に手順を説明します。
