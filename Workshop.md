@@ -161,3 +161,56 @@ http://fivebox.org/
 ---
 
 ここからは同時に手順を説明します。
+
+
+---
+
+## <font face="arial">Gitが入っているか確認</font>
+
+```
+$ git --version
+```
+
+なければこちらからインストールできます。
+http://git-scm.com/download
+
+---
+
+
+## <font face="arial">簡単なHTMLを書いてみよう</font>
+
+index.html
+```
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8" />
+    <title>タイトル</title>
+</head>
+<body>
+<h1>GitHub Pagesワークショップ</h1>
+</body>
+</html>
+```
+
+---
+
+## <font face="arial">CSSを追加してみよう</font>
+
+index.html
+```
+<head>
+    <meta charset="UTF-8" />
+    <link href="./style.css" rel="stylesheet" type="text/css">
+    <title>タイトル</title>
+</head>
+```
+
+style.css
+```
+h1{
+	color: #f00;
+}
+```
+---
+
