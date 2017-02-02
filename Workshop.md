@@ -29,6 +29,27 @@ Presenter : 佐藤敦也
 
 ---
 
+## <font face="arial">自己紹介</font>
+
+<hr>
+
+<div style="float:left;">
+<br \>
+Supporter : 齊藤正宏
+
+Facebook: <a href="https://www.facebook.com/masahiro.saito.fun">masahiro.saito.fun</a>
+
+- 公立はこだて未来大学
+知能システムコース 2年
+- Java系エンジニア
+- 最近はKotlinが可愛い
+- Dockerも結構触れる
+</div>
+<p><img alt="repo" src="https://scontent.xx.fbcdn.net/v/t1.0-1/p320x320/15726808_316900542037005_7796912575053991464_n.jpg?oh=8f737bf522c0e7c619c4a65e616cb652&oe=59123CD5" style="display:block;margin-left:auto" width="200px" /></p>  
+<br \>
+
+---
+
 ## <font face="arial">注意事項</font>
 
 - 本ワークショップではGit及びGitHubの大部分の説明を省略します。
